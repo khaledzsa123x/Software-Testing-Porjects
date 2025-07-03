@@ -8,6 +8,8 @@
 - Conducted regression and smoke testing during release cycles to ensure system stability
 
 
+---
+
 
 ## Guru99 Banking Project
 
@@ -21,7 +23,10 @@ This repository showcases the testing project for the Guru99 Banking system, cov
 3. Version3: https://trello.com/b/GTdbiIxy/guru99-banking-v3
 
 
-# Guru Insurance Manual Testing Project
+---
+
+
+## Guru Insurance Manual Testing Project
 
 This document covers the **test cases**, and **bug reports** for the Guru Insurance web application.
 
@@ -30,7 +35,10 @@ This document covers the **test cases**, and **bug reports** for the Guru Insura
 **Bug Reports:** https://trello.com/b/xfR0dkkV/guru-insurance
 
 
-# 🛒 OpenCart Manual Testing Project
+---
+
+
+## 🛒 OpenCart Manual Testing Project
 
 This document includes the **Test Cases**, and **Bug Reports** for the OpenCart e-commerce platform. It covers modules like user login, product search, cart operations, and checkout process.
 
